@@ -1,0 +1,15 @@
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\bin\Debug\net6.0\DZSEMINAR1.exe
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\bin\Debug\net6.0\DZSEMINAR1.deps.json
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\bin\Debug\net6.0\DZSEMINAR1.runtimeconfig.json
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\bin\Debug\net6.0\DZSEMINAR1.dll
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\bin\Debug\net6.0\DZSEMINAR1.pdb
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.csproj.AssemblyReference.cache
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.AssemblyInfoInputs.cache
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.AssemblyInfo.cs
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.csproj.CoreCompileInputs.cache
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.dll
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\refint\DZSEMINAR1.dll
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.pdb
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\DZSEMINAR1.genruntimeconfig.cache
+C:\Users\dj_vo\Desktop\Introduction C#\DZSEMINAR1\obj\Debug\net6.0\ref\DZSEMINAR1.dll
