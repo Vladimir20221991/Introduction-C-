@@ -15,3 +15,4 @@ else
 {
     Console.Write("Min = ");Console.Write(num1);Console.Write(" < ");Console.Write("Max = ");Console.Write(num2);
 }
+// Задача 2:
