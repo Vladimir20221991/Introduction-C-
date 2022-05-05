@@ -1,4 +1,4 @@
-﻿/*
+/*
 //Задача 1. 
 Console.Write("Input integer number: ");
 int num = Convert.ToInt32(Console.ReadLine());
@@ -6,7 +6,7 @@ int result = num * num;
 Console.WriteLine("Result is " + result);
 */
 
-
+/*
 //Задача 2.
 Console.Write("Input first integer number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -16,7 +16,7 @@ if(num1 == num2 * num2)
     Console.WriteLine("First number is a quad of second number");
 else
     Console.WriteLine("First number is not a quad of second number");
-    
+*/
 /*
 //Задача 3.
 Console.Write("Input number of weekday: ");
@@ -37,7 +37,7 @@ else
 
 
 /*
-//Задача 4.
+Задача 4.
 Console.Write("Input integer number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int current;

@@ -1,14 +1,11 @@
-﻿//Задача 1: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+//Задача 1: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 /*
 void showsTheSecondDigit()
 {
     int num = new Random().Next(100, 1000); 
     int second = num /10 % 10;
     Console.Write(num + " -> ");
-    if (num > second)
-    {
-       Console.WriteLine(second);
-    }
+    Console.WriteLine(second);    
 }
 showsTheSecondDigit();
 */
