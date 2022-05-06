@@ -1,4 +1,4 @@
-﻿//Поиск четверти по координатам.
+//Поиск четверти по координатам.
 /*
 int FindQvart(int x, int y)
 {
@@ -56,7 +56,7 @@ FindQvart(Qvartnum);
 //Console.Write(Math.Sqrt(25));
 
 //double xA, yA, xB, yB;
-
+/*
 double Space2d(double x1, int y1,int x2, int y2)
 {
     return Math.Sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
@@ -73,7 +73,7 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write(Space2d(x1,y1,x2,y2));
 
-
+*/
 /*
 void TableOfSquares(int N)
 {
