@@ -83,7 +83,7 @@ PrintArray(array);
 //Задайте массив из 12 элементов, заполненный случайными числами из промежутка [-9, 9]. 
 //Найдите сумму отрицательных и положительных элементов массива.
 
-
+/*
 int[] CreateRandomArray(int size, int min, int max)
 {
     int[] array = new int[size];
@@ -136,3 +136,4 @@ void FindSumOfElements(int[] array)  // 1 -4 3 -2 6 -1 5 3 8 -5
 int[] myArray = CreateArray(12);
 ShowArray(myArray);
 FindSumOfElements(myArray);
+*/
