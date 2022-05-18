@@ -46,15 +46,14 @@ PrintRealNumbers(array);
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 
-/*   Console.Clear(); Console.WriteLine();
-
+/*  Console.Clear(); Console.WriteLine();
 void FillTwoDimensionalArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            array[i, j] = new Random().Next(1, 10);
+            array[i, j] = new Random().Next(1, 100);
         }
     }
 }
@@ -65,38 +64,41 @@ void PrintTwoDimensionalArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write($"{array[i, j]} ");
+            Console.Write("{0,-3}", array[i, j]);
         }
         Console.WriteLine();
     }
-}
-int line = 5;
-int column = 5;
+}Console.WriteLine();
+
+Console.Write("Введите размер 2D матрици (строка): ");
+int line = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите размер 2D масрици (столбец): ");
+int column = Convert.ToInt32(Console.ReadLine());
 int[,] array = new int[line, column];
 
+Console.WriteLine();
 FillTwoDimensionalArray(array);
 PrintTwoDimensionalArray(array);
+Console.WriteLine();
 
-Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
-
-string PositionElement(int[,] array)
+void ItemPositions(int[,] array)
 {
-    string result = string.Empty;
+    Console.Write("Введите строку:");
+    int pos1 = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Введите столбец:");
+    int pos2 = Convert.ToInt32(Console.ReadLine());
 
-    for (int i = 0; i < array.GetLength(0); i++)
+    if (pos1 < 0 | pos1 > array.GetLength(0) | pos2 < 0 | pos2 > array.GetLength(1))
     {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            if (num == array[i, j]) result += $"({i}, {j})";
-        }
+        Console.WriteLine("Элемент не существует");
     }
-    if (result == string.Empty) result = "Такого элемента нет";
-    return result;
+    else
+    {
+        Console.WriteLine("Значение элемента массива = {0}", array[pos1, pos2]);
+    }
 }
-Console.WriteLine(PositionElement(array));
+ItemPositions(array);
 */
-
 
 // Задача 3. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 // Например, задан массив:
