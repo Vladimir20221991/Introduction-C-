@@ -1,4 +1,4 @@
-﻿// Задача 1: Задайте двумерный массив. Напишите программу, которая упорядочит по возрастанию элементы каждой строки двумерного массива.
+// Задача 1: Задайте двумерный массив. Напишите программу, которая упорядочит по возрастанию элементы каждой строки двумерного массива.
 // Например, задан массив:
 // 1 4 7 2
 // 5 9 2 3
@@ -139,7 +139,7 @@ Console.Write($"The smallest sum of elements in: {MinSumString(myArray)} Line");
 // 11 16 15 6
 // 10 9 8 7
 
-/*  Console.Clear(); Console.WriteLine();
+/* Console.Clear(); Console.WriteLine();
 void GetSpire(int[,] array)
 {
 
@@ -238,7 +238,7 @@ void GetSpire(int[,] array)
     }
 
 }
-int[,] myArray = new int[4, 4];
+int[,] myArray = new int[6, 7];
 GetSpire(myArray);
 Console.WriteLine();
-*/
+
